@@ -1,6 +1,8 @@
 # Copilot External Launcher
 A Python wrapper to pin Copilot (Bing Chat) to your Taskbar.
 
+https://github.com/ArakiSatoshi/copilot-external-launcher/assets/45124115/700e7585-865e-4fcf-a201-fc0806c10325
+
 ---
 
 This launcher acts as a simple link opener that opens Copilot's side panel on Windows 11:
